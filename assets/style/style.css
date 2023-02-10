@@ -1,1 +1,13 @@
 /* BASIC STYLES HERE */
+.unopened{
+    background-image: url(https://user-images.githubusercontent.com/102513373/209185805-74931e66-ab56-496a-85b0-c767ff3e1907.png);
+    background-size: cover;
+    background-position: center;
+    min-height: 20vh;
+    min-width: auto;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.254);
+}
+
+.unopened-text{
+    background-color: bisque;
+}
